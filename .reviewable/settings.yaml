@@ -1,0 +1,6 @@
+approval-text: "lgtm"
+badge:
+  location: description-top
+  when: created
+default-review-style: combined-commits
+default-review-overlap-strategy: user-default
